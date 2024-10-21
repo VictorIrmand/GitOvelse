@@ -13,6 +13,11 @@ public class Main {
         System.out.println("Martinelli");
         System.out.println("jaajaja");
         System.out.println("nejnejej");
+        System.out.println("Hejsa");
+        System.out.println("Hyggehejsa");
+        System.out.println("daws14");
+
+
 
     }
 }
